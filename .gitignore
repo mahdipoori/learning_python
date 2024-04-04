@@ -1,0 +1,12 @@
+.idea
+.gitignore.bak
+venv
+cell.py
+consts.py
+game_manager.py
+main.py
+pygame_test.py
+snake.py
+sq.*
+test.py
+test2.py
